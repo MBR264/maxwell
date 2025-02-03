@@ -1,0 +1,57 @@
+body {
+  padding:0;
+  margin:0;
+  background:#000000;
+}
+
+img {
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%, -50%);
+}
+
+p {
+  
+font-size: 12px;
+
+position: relative;
+top: 20px;
+left: 40px;
+  }
+
+.POWER15.gif {
+  width:316px;
+  height:auto;
+}
+
+.POWER25.gif {
+  width:316px;
+  height:auto;
+}
+
+.POWER35.gif {
+  width:316px;
+  height:auto;
+}
+
+.POWER4.gif {
+  width:316px;
+  height:auto;
+}
+
+.POWER55.gif {
+  width:316px;
+  height:auto;
+}
+
+.POWER65.gif {
+  width:316px;
+  height:auto;
+}
+
+.t4 {
+  color: yellow;
+  background: black;
+  }
+ 
